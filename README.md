@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I'm Ayomikun Akinboade, a Software Engineer with over 4 years of expertise in Backend development. I've worked extensively with Javascript and Typescript.
+🔭 I'm Ayomikun Emmanuel, a Software Engineer with over 4 years of expertise in Backend development. I've worked extensively with Javascript and Typescript.
 🌱 I enjoy building efficient and scalable backend systems. I'm highly proficient in building APIs and using different database management systems.
 👯 In my spare time I learn new skills and contribute to Open Source projects.
 💬 Ask me about my engineering skills and experience.
